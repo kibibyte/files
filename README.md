@@ -2,7 +2,7 @@
 
 # Register (Stack: Java, GWT, Mysql)
 
-![register1](https://github.com/user-attachments/assets/f65c4861-a21f-4609-be43-7e48928b0fda)
+![register1](https://github.com/user-attachments/assets/f65c4861-a21f-4609-be43-7e48928b0fda&token=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)
 
 # DHS web based IDE (Stack: PHP, Java, JS, Mysql)
 
