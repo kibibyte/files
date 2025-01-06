@@ -17,7 +17,7 @@ Others: AWS (ECS, EC2, SNS, SQS, Lambda, Elastic Transcoder, Elastic Cache, S3, 
 
 ![image](https://github.com/user-attachments/assets/5ff12804-0be6-4d86-8725-87bc30b07c49)
 
-# MySmartControll 
+# MSC 
 
 Java, JS.
 
