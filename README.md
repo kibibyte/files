@@ -1,4 +1,4 @@
-# Squarespace
+# SP
 Java, JS, Typescript. 
 
 Frameworks: Spring Boot, React, Jooq/JPA. 
