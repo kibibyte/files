@@ -1,7 +1,7 @@
 # SP
 Java, JS, Typescript. 
 
-Frameworks: Spring Boot, React, Jooq/JPA. 
+Frameworks: Spring Boot, YUI, React, Jooq/JPA. 
 
 Others:Kafka, Kubernetes, GCP, Github CI/CD, Docker, Postgres
 
