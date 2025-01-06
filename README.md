@@ -62,7 +62,9 @@ Frameworks: Zend
 
 <br /><br />
 
-# Retro Led Watch (Stack: Basic, AtTiny2313)
+# Retro Led Watch 
+
+Basic, AtTiny2313
 
 ![retro_watch](https://github.com/user-attachments/assets/3a23f36c-1d0c-4f68-9229-30b0f7ea2281)
 
@@ -72,7 +74,8 @@ Frameworks: Zend
 
 <br /><br />
 
-# Montezuma's revenge (Stack: C/C++, Allegro game lib)
+# Montezuma's revenge
+C/C++, Allegro game lib
 
 ![screenshot1](https://github.com/user-attachments/assets/6c624d70-6a29-4df5-84e9-099f1bf79d72)
 
