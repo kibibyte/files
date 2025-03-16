@@ -1,4 +1,4 @@
-# SP
+# SP <a name="sp"></a>
 Java, JS, Typescript. 
 
 Frameworks: Spring Boot, YUI, React, Jooq/JPA. 
@@ -7,7 +7,7 @@ Others:Kafka, Kubernetes, GCP, Github CI/CD, Docker, Postgres
 
 ![image](https://github.com/user-attachments/assets/07a8dde7-47c3-40a4-a978-bae69eafeb18)
 
-# VDL 
+# VDL <a name="vld"></a>
 
 Java, Kotlin, Groovy. 
 
@@ -17,7 +17,7 @@ Others: AWS (ECS, EC2, SNS, SQS, Lambda, Elastic Transcoder, Elastic Cache, S3, 
 
 ![image](https://github.com/user-attachments/assets/5ff12804-0be6-4d86-8725-87bc30b07c49)
 
-# MSC 
+# MSC <a name="msc"></a>
 
 Java, JS.
 
@@ -29,7 +29,7 @@ Others: GCP (Kubernetes, Cloud sql, Cloud storage), Terraform, Jenkins CI/CD, Do
 
 <br /><br />
 
-# Register
+# Register <a name="reg"></a>
 Java, JS
 
 Frameworks: Spring, GWT. 
@@ -40,7 +40,7 @@ Others: Glassfish, OpenAm, OpenDs, Mysql.
 
 <br /><br />
 
-# DHS - web based IDE 
+# DHS - web based IDE <a name="dhs"></a>
 PHP, Java, Js, Mysql
 
 Frameworks: Zend
@@ -51,7 +51,7 @@ Frameworks: Zend
 
 <br /><br />
 
-# Simpro - multiuser cms/selling platform
+# Simpro - multiuser cms/selling platform <a name="simpro"></a>
 PHP, Java, Js, Mysql
 
 Frameworks: Zend
@@ -74,7 +74,7 @@ Basic, AtTiny2313
 
 <br /><br />
 
-# Montezuma's revenge
+# Montezuma's revenge <a name="monty"></a>
 C/C++, Allegro game lib
 
 ![screenshot1](https://github.com/user-attachments/assets/6c624d70-6a29-4df5-84e9-099f1bf79d72)
